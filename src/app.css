@@ -26,3 +26,14 @@
   fontweight: bold;
   text-align: center;
 }
+.container-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-logo {
+  margin: 50px;
+  width: 90px;
+  height: auto;
+  border-radius: 50%;
+}
