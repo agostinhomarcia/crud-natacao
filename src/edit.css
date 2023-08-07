@@ -1,0 +1,30 @@
+.edit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.input,
+.select {
+  display: block;
+  padding: 0.9rem 1.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  background-color: #fff;
+  color: #000;
+}
+
+.input {
+  margin-bottom: 1.9rem;
+}
+
+.select {
+  margin-bottom: 1.9rem;
+}
+.submit-button {
+  width: 70%;
+  height: 40px;
+  border-radius: 0.5rem;
+}
