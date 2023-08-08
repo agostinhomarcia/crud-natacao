@@ -3,7 +3,7 @@ import { Outlet } from "react-router-dom";
 import NavLinks from "./components/Nav/NavLinks";
 import "./app.css";
 
-import Logo from "../public/nadando.svg";
+import Logo from "/nadando.svg";
 
 function App() {
   return (
