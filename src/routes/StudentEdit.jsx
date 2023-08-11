@@ -5,7 +5,7 @@ import { doc, getDoc, updateDoc } from "firebase/firestore";
 
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import "../edit.css";
+import "../editStyles.css";
 
 const EditStudent = () => {
   const { id } = useParams();
