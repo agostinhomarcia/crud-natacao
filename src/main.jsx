@@ -5,7 +5,7 @@ import "./index.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import StudentForm from "./routes/StudentForm";
-import StudentList from "./routes/studentList";
+import StudentList from "./routes/StudentList";
 import StudentEdit from "./routes/StudentEdit";
 
 const router = createBrowserRouter([
