@@ -22,8 +22,8 @@
   margin-right: 10px;
 }
 .title {
-  fontsize: 20px;
-  fontweight: bold;
+  font-size: 20px;
+  font-weight: bold;
   text-align: center;
 }
 .container-img {
